@@ -1,0 +1,40 @@
+1."The computer was born to solve problems that did not exist before." - Bill Gates
+
+2. "It's not a bug, it's an undocumented feature." - Anonymous
+
+3. "Programming is the art of telling a computer what to do." - Donald Knuth
+
+4. "The best code is no code. The best way to write secure and reliable applications is to write nothing at all." - Jeff Atwood
+
+5. "Debugging is like being a detective in a crime movie where you're also the murderer." - Filipe Fortes
+
+6. "There are only two hard things in Computer Science: cache invalidation and naming things." - Phil Karlton
+
+7. "If debugging is the process of removing software bugs, then programming must be the process of putting them in." - Edsger W. Dijkstra   
+
+8. "Programs are made for humans to read, and only incidentally for computers to execute." - Hal Abelson
+
+9. "To understand recursion, one must first understand recursion." - Anonymous
+
+10. "The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination." - Frederick P. Brooks Jr.   
+
+11. "Coding is not just for making things, but also for thinking about things differently." - Michael Lopp
+
+12. "Software is a great combination of artistry and engineering." - Bill Gates
+
+13. "Computers are useless. They can only give you answers." - Pablo Picasso
+
+14. "Programming is the new literacy. We must learn to read, write, and code." - Steve Jobs
+
+15. "Programming allows you to think about problems and find solutions in a structured way. It's a powerful tool for innovation and progress." - Mark Zuckerberg
+   
+16. "Programmers are not solitary creatures. They are trained to work together, to share code, and to help each other out." - Douglas Crockford  
+ 
+17. "The best software is written by teams who know how to work together." - Martin Fowler
+
+18. "Collaboration is key in programming. We must work together to solve complex problems and build amazing things." - Guido van Rossum  
+ 
+19. "Programming is a team sport. It's not just about writing code, it's about collaborating with others to create something amazing." - Chris Stephenson   
+
+20. "The best programmers are not necessarily the ones who know the most about programming, but the ones who can work effectively in a team." - Steve McConnell   
+

@@ -1,0 +1,39 @@
+1. Walking on water and developing software from a specification are easy if both are frozen. - Edward V Berard
+
+2. Given enough eyeballs, all bugs are shallow. - Linus Torvalds (open source)
+
+3. When in doubt, use brute force. - Ken Thompson (career)
+
+4. Know how to learn. Then, want to learn. - Katherine Johnson (opening?)
+
+5. Never trust a computer you can’t throw out a window. - Steve Wozniak (cloud)
+
+6. When in doubt, use brute force. - Ken Thompson (career)
+
+7. Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road. - Stewart Brand
+
+8. The most disastrous thing that you can ever learn is your first programming language. - Alan Kay
+
+9. Optimism is an occupational hazard of programming. Feedback is the treatment. - Kent Beck
+
+10. The function of good software is to make the complex appear to be simple. - Grady Booch
+
+11. I'm not a great programmer. I'm just a good programmer with great habits. ― Kent Beck
+
+12. Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. — Brian W. Kernighan
+
+13. Some people, when confronted with a problem, think "I know, I'll use regular expressions." Now they have two problems. — Jamie Zawinski
+
+14. You can use an eraser on the drafting table or a sledgehammer on the construction site - Frank Lloyd Wright
+
+15.The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time. — Tom Cargill
+  
+16. There are only two kinds of languages: the ones people complain about and the ones nobody uses. — Bjarne Stroustrup
+
+17. It's all talk until the code runs. — Ward Cunningham
+
+18. Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. - Linus Torvalds
+
+19. Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. - Martin Golding
+
+20. Nine people can’t make a baby in a month." (regarding the addition of more programmers to get a project completed faster) – Fred Brooks

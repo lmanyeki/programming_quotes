@@ -52,5 +52,5 @@
 19. "Programming is like sex. One mistake and you have to support it for the rest of your life."
 – Michael Sinz
 
-20 "Talk is cheap. Show me the code."
-- Linus Torvalds
+20 "If you don't have a good system, make sure you get good users."
+-Anonymous

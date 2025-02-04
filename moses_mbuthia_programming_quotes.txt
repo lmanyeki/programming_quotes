@@ -1,0 +1,41 @@
+1. The best way to predict the future is to implement it. — David Heinemeier Hansson
+
+2. Deleted code is debugged code. — Jeff Sickel
+
+3. Good programmers write code that humans can understand. — Martin Fowler
+
+4. A language that doesn’t affect the way you think about programming is not worth   	knowing." — Alan Perlis
+
+5. Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. — John Woods
+
+
+6. The best error message is the one that never shows up. — Thomas Fuchs
+
+7. No code is faster than no code. — Kevlin Henney
+
+8. Code as if the next person to maintain it is a homicidal maniac who knows your address. — Martin Golding
+
+9. Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases. — Norman Augustine
+
+10. Copy-and-paste is a design error. — David Parnas
+
+11. A program is never less than 90% complete, and never more than 95% complete. — Terry Baker
+
+12. One man’s crappy software is another man’s full-time job. — Jessica Gaston
+
+13. An API that isn’t usable is not an API. — James Gosling
+
+14. Give a man a program, and he’ll be frustrated for a day. Teach a man to program, and he’ll be frustrated for a lifetime. — Anonymous
+
+15. The trouble with programmers is that you can never tell what a programmer is doing until it’s too late. — Seymour Cray
+
+16. The art of programming is the art of organizing complexity. — Edsger Dijkstra
+
+17. Adding manpower to a late software project makes it later. — Fred Brooks
+
+18. Software development is a cruel business. You make a mistake, and ten thousand people use it before you find it. — Anonymous
+
+19. Any fool can write code that a computer can understand. Good programmers write code that humans can understand — Martin Fowler
+
+20. The sooner you start to code, the longer the program will take. — Roy Carlson
+

@@ -1,0 +1,9 @@
+1. Give someone a program; you frustrate them for a day; teach them how to program, and you frustrate them for a lifetime – David Leinweber
+
+2. Don’t comment bad code – rewrite it – Brian Kernighan
+
+3. No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first – Andy Hunt
+
+4. A programming language is for thinking about programs, not for expressing programs you’ve already thought of. It should be a pencil, not a pen – Paul Graham
+
+5. Sometimes it pays to stay in bed on Monday rather than spending the rest of the week debugging Monday’s code – Dan Salomon
